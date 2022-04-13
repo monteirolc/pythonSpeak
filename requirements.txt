@@ -1,2 +1,4 @@
-gTTs
+gTTS
 playsound
+vext
+vext.gi
